@@ -1,4 +1,5 @@
-#include <constants.h>
+#include "constants.h"
+#include "game_interface.h"
 
 /* The whole game is inside this procedure */
 
